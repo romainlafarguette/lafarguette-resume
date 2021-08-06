@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdflatex 2018.8.6)  20 JUL 2021 14:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6400 64-bit) (preloaded format=pdflatex 2018.8.6)  6 AUG 2021 08:09
 entering extended mode
 **\input lafarguette_resume.tex
 (lafarguette_resume.tex (cv.cls
@@ -732,48 +732,48 @@ Overfull \hbox (45.67496pt too wide) in paragraph at lines 80--97
  []
 
 
-Overfull \hbox (18.10231pt too wide) in paragraph at lines 99--130
+Overfull \hbox (18.10231pt too wide) in paragraph at lines 99--123
 [][] 
  []
 
 
-Overfull \hbox (18.10231pt too wide) in paragraph at lines 133--162
+Overfull \hbox (18.10231pt too wide) in paragraph at lines 126--155
 [][] 
  []
 
 
-Overfull \hbox (18.10231pt too wide) in paragraph at lines 164--207
+Overfull \hbox (18.10231pt too wide) in paragraph at lines 157--172
 [][] 
  []
 
 [1
 
 {C:/Users/rlafarguette/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Overfull \hbox (18.10231pt too wide) in paragraph at lines 212--257
+Overfull \hbox (18.10231pt too wide) in paragraph at lines 175--220
 [][] 
  []
 
 
-Overfull \hbox (18.10231pt too wide) in paragraph at lines 260--294
+Overfull \hbox (18.10231pt too wide) in paragraph at lines 223--257
 [][] 
  []
 
 [2]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 310.
+(Font)              <9> on input line 273.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 310.
+(Font)              <6> on input line 273.
 
-Overfull \hbox (18.10231pt too wide) in paragraph at lines 302--324
+Overfull \hbox (18.10231pt too wide) in paragraph at lines 265--287
 [][] 
  []
 
 
-Overfull \hbox (18.10231pt too wide) in paragraph at lines 328--361
+Overfull \hbox (18.10231pt too wide) in paragraph at lines 291--324
 [][] 
  []
 
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 367.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 330.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmss.fd"
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -782,23 +782,23 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmss' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 374.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 337.
  [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 374.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 337.
 
 (lafarguette_resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 374.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 374.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 337.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 337.
 Package rerunfilecheck Info: File `lafarguette_resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 374.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 337.
  ) 
 Here is how much of TeX's memory you used:
  7933 strings out of 493314
- 123037 string characters out of 3138847
- 244515 words of memory out of 3000000
- 11343 multiletter control sequences out of 15000+200000
- 51173 words of font info for 58 fonts, out of 3000000 for 9000
+ 123085 string characters out of 3138847
+ 243515 words of memory out of 3000000
+ 11345 multiletter control sequences out of 15000+200000
+ 51090 words of font info for 57 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  31i,9n,38p,310b,503s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/M
@@ -810,7 +810,7 @@ fonts/type1/public/lm/lmri10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
 c/lm/lmri9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C
 :/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmtt10.pfb><C:/Program Files/M
 iKTeX 2.9/fonts/type1/public/lm/lmtt9.pfb>
-Output written on lafarguette_resume.pdf (3 pages, 264800 bytes).
+Output written on lafarguette_resume.pdf (3 pages, 262459 bytes).
 PDF statistics:
  80 PDF objects out of 1000 (max. 8388607)
  4 named destinations out of 1000 (max. 500000)
