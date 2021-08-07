@@ -1,0 +1,10 @@
+# Git ignore, https://romainlafarguette.github.io/
+
+# Ignore some folders
+__pycache__/
+
+
+# Ignore some files
+*.aux
+*.log
+*.out
