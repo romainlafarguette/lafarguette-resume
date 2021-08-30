@@ -24,7 +24,8 @@
     "geometry"
     "microtype"
     "setspace"
-    "enumitem")
+    "enumitem"
+    "multicol")
    (TeX-add-symbols
     '("comment" 1)
     '("activite" 1)
