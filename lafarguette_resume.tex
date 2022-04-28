@@ -1,4 +1,4 @@
-%% Time-stamp: <2022-04-28 00:44:44 RLafarguette>
+%% Time-stamp: <2022-04-28 00:56:06 RLafarguette>
 %% This version : June 2021 (first version : July 2009)
 %% LateX Resume 
 %% https://romainlafarguette.github.io/
@@ -33,6 +33,15 @@
 
 \usepackage{enumitem} % Enhanced itemize/enumerate environment
 \usepackage{multicol} % Multiple columns text
+
+%% Dates
+\usepackage{datetime}
+\newdateformat{monthyeardate}{%
+  \monthname[\THEMONTH] \THEYEAR}
+
+\newdateformat{currentyear}{%
+  \THEYEAR}
+
 
 %% ---------------------------------------------------------------------------
 %% Personal macros : new commands and environments
@@ -86,7 +95,7 @@
 \end{adresse}
 \begin{etatcivil}
 \begin{flushleft}
-  \emph{Updated: April 2022}\\
+  \emph{Updated: \monthyeardate\today}\\
 Male, French national
 \end{flushleft}
 \end{etatcivil}
@@ -125,7 +134,7 @@ Design models and algorithms for central banks and researchers available on \url
 \begin{rubriquetableau}[0.95\textwidth]{Professional Experience}\\
 \vspace{-0.5cm}
 
-\activite{International Monetary Fund} Quant Economist \& Technical Assistance Mission Chief \hfill 2016-2022 \\
+\activite{International Monetary Fund} Quant Economist \& Technical Assistance Mission Chief \hfill 2016-\currentyear\today \\
 \vspace{-0.2cm}
 
 \begin{itemize}[label={},
