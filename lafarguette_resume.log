@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.3)  15 AUG 2022 18:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.3)  15 AUG 2022 18:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -661,22 +661,22 @@ Overfull \hbox (18.10231pt too wide) in paragraph at lines 412--456
  []
 
 [3]
-Overfull \hbox (18.10231pt too wide) in paragraph at lines 464--533
+Overfull \hbox (18.10231pt too wide) in paragraph at lines 464--528
 [][] 
  []
 
 [4]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 548.
+(Font)              <9> on input line 543.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 548.
+(Font)              <6> on input line 543.
 
-Overfull \hbox (18.10231pt too wide) in paragraph at lines 541--593
+Overfull \hbox (18.10231pt too wide) in paragraph at lines 536--588
 [][] 
  []
 
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 6
-02.
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 5
+97.
 (C:\Users\A13258Q\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -709,7 +709,7 @@ mri9.pfb><C:/Users/A13258Q/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/
 lmss10.pfb><C:/Users/A13258Q/AppData/Local/Programs/MiKTeX/fonts/type1/public/l
 m/lmtt10.pfb><C:/Users/A13258Q/AppData/Local/Programs/MiKTeX/fonts/type1/public
 /lm/lmtt9.pfb>
-Output written on lafarguette_resume.pdf (5 pages, 284163 bytes).
+Output written on lafarguette_resume.pdf (5 pages, 283875 bytes).
 PDF statistics:
  106 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)
