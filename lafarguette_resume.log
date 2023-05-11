@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.4.4)  11 MAY 2023 18:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.4.4)  11 MAY 2023 19:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -631,59 +631,54 @@ Overfull \hbox (45.67496pt too wide) in paragraph at lines 86--103
  []
 
 
-Overfull \hbox (18.10231pt too wide) in paragraph at lines 107--133
+Overfull \hbox (18.10231pt too wide) in paragraph at lines 107--131
 [][] 
  []
 
 
-Overfull \hbox (18.10231pt too wide) in paragraph at lines 140--182
+Overfull \hbox (18.10231pt too wide) in paragraph at lines 138--180
 [][] 
  []
 
 [1
 
 {C:/Users/A13258Q/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Overfull \hbox (18.10231pt too wide) in paragraph at lines 189--227
+Overfull \hbox (18.10231pt too wide) in paragraph at lines 187--223
 [][] 
  []
 
 
-Overfull \hbox (18.10231pt too wide) in paragraph at lines 233--253
+Overfull \hbox (18.10231pt too wide) in paragraph at lines 229--311
 [][] 
  []
 
 [2]
-Overfull \hbox (18.10231pt too wide) in paragraph at lines 260--392
+Overfull \hbox (18.10231pt too wide) in paragraph at lines 318--450
 [][] 
  []
 
 [3]
-Overfull \hbox (18.10231pt too wide) in paragraph at lines 398--450
+Overfull \hbox (18.10231pt too wide) in paragraph at lines 456--508
 [][] 
  []
 
 
-Overfull \hbox (18.10231pt too wide) in paragraph at lines 453--497
+Overfull \hbox (18.10231pt too wide) in paragraph at lines 511--555
 [][] 
  []
 
 [4]
-Overfull \hbox (18.10231pt too wide) in paragraph at lines 505--579
-[][] 
- []
-
-[5]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 594.
+(Font)              <9> on input line 571.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 594.
+(Font)              <6> on input line 571.
 
-Overfull \hbox (18.10231pt too wide) in paragraph at lines 587--639
+Overfull \hbox (18.10231pt too wide) in paragraph at lines 564--616
 [][] 
  []
 
 LaTeX Font Info:    Trying to load font information for T1+lmss on input line 6
-48.
+27.
 (C:\Users\A13258Q\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -692,16 +687,16 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-[6] (lafarguette_resume.aux)
+[5] (lafarguette_resume.aux)
 Package rerunfilecheck Info: File `lafarguette_resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 12810 strings out of 476334
- 212667 string characters out of 5787028
- 1870382 words of memory out of 5000000
+ 12803 strings out of 476334
+ 212599 string characters out of 5787028
+ 1869382 words of memory out of 5000000
  32973 multiletter control sequences out of 15000+600000
- 561272 words of font info for 93 fonts, out of 8000000 for 9000
+ 561017 words of font info for 90 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,10n,76p,1033b,572s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {C:/Users/A13258Q/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}
@@ -716,9 +711,9 @@ mri9.pfb><C:/Users/A13258Q/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/
 lmss10.pfb><C:/Users/A13258Q/AppData/Local/Programs/MiKTeX/fonts/type1/public/l
 m/lmtt10.pfb><C:/Users/A13258Q/AppData/Local/Programs/MiKTeX/fonts/type1/public
 /lm/lmtt9.pfb>
-Output written on lafarguette_resume.pdf (6 pages, 291827 bytes).
+Output written on lafarguette_resume.pdf (5 pages, 291666 bytes).
 PDF statistics:
- 115 PDF objects out of 1000 (max. 8388607)
- 7 named destinations out of 1000 (max. 500000)
+ 110 PDF objects out of 1000 (max. 8388607)
+ 6 named destinations out of 1000 (max. 500000)
  27649 words of extra memory for PDF output out of 29859 (max. 10000000)
 
