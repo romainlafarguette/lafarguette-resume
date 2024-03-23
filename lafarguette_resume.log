@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2024.3.23)  23 MAR 2024 20:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2024.3.23)  23 MAR 2024 20:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -683,11 +683,11 @@ Package rerunfilecheck Info: File `lafarguette_resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 12694 strings out of 474718
- 205473 string characters out of 5758248
+ 12692 strings out of 474718
+ 205453 string characters out of 5758248
  1944036 words of memory out of 5000000
  34492 multiletter control sequences out of 15000+600000
- 607131 words of font info for 98 fonts, out of 8000000 for 9000
+ 607048 words of font info for 97 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,10n,79p,1033b,572s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Program Files/M
@@ -698,7 +698,7 @@ ts/type1/public/lm/lmri10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lm
 ri9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Program F
 iles/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/Program Files/MiKTeX/fonts/typ
 e1/public/lm/lmtt9.pfb>
-Output written on lafarguette_resume.pdf (5 pages, 288562 bytes).
+Output written on lafarguette_resume.pdf (5 pages, 288579 bytes).
 PDF statistics:
  113 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)
