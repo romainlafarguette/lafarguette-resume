@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.23)  12 JAN 2025 16:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.23)  12 JAN 2025 16:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -376,8 +376,7 @@ File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 File: l3backend-pdftex.def 2024-03-14 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count317
 \l__pdf_internal_box=\box101
-)
-No file lafarguette_resume.aux.
+) (./lafarguette_resume.aux)
 \openout1 = `lafarguette_resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 84.
@@ -398,7 +397,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 84.
 LaTeX Font Info:    ... okay on input line 84.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 84.
 LaTeX Font Info:    ... okay on input line 84.
-(c:/texlive/2024/texmf-dist/tex/latex/graphics/color.sty
+ (c:/texlive/2024/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
  (c:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
@@ -421,6 +420,7 @@ File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 \everyMPtoPDFconversion=\toks31
 )) (c:/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx))
 Package hyperref Info: Link coloring ON on input line 84.
+ (./lafarguette_resume.out) (./lafarguette_resume.out)
 \@outlinefile=\write3
 \openout3 = `lafarguette_resume.out'.
 
@@ -492,7 +492,7 @@ Package microtype Warning: \nonfrenchspacing is active. Adjustment of
 (c:/texlive/2024/texmf-dist/tex/latex/fmtcount/fc-english.def
 File: fc-english.def 2016/01/12
 )
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 94.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 93.
  (c:/texlive/2024/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -500,92 +500,81 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 94.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 93.
  (c:/texlive/2024/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 94.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 93.
  (c:/texlive/2024/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 94.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 93.
  (c:/texlive/2024/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 94.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 93.
  (c:/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 94.
+(Font)              <10> on input line 93.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 94.
+(Font)              <7> on input line 93.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 94.
+(Font)              <5> on input line 93.
 
-Overfull \hbox (45.67496pt too wide) in paragraph at lines 85--104
+Overfull \hbox (45.67496pt too wide) in paragraph at lines 85--103
 []  $[]$ 
  []
 
-c:/Users/Administrator/Desktop/lafarguette-resume/lafarguette_resume.tex:112: Undefined control sequence.
-<recently read> \smallkip 
-                          
-l.112 Singapore. \\ \smallkip
-                             
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-
-Overfull \hbox (18.10231pt too wide) in paragraph at lines 108--119
+Overfull \hbox (18.10231pt too wide) in paragraph at lines 107--118
 [][] 
  []
 
 
-Overfull \hbox (18.10231pt too wide) in paragraph at lines 126--180
+Overfull \hbox (18.10231pt too wide) in paragraph at lines 125--179
 [][] 
  []
 
 [1
 
 {c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}]
-Overfull \hbox (18.10231pt too wide) in paragraph at lines 187--223
+Overfull \hbox (18.10231pt too wide) in paragraph at lines 186--222
 [][] 
  []
 
 
-Overfull \hbox (18.10231pt too wide) in paragraph at lines 229--311
+Overfull \hbox (18.10231pt too wide) in paragraph at lines 228--310
 [][] 
  []
 
 [2]
-Overfull \hbox (18.10231pt too wide) in paragraph at lines 317--449
+Overfull \hbox (18.10231pt too wide) in paragraph at lines 316--448
 [][] 
  []
 
 [3]
-Overfull \hbox (18.10231pt too wide) in paragraph at lines 457--508
+Overfull \hbox (18.10231pt too wide) in paragraph at lines 456--507
 [][] 
  []
 
 
-Overfull \hbox (18.10231pt too wide) in paragraph at lines 511--555
+Overfull \hbox (18.10231pt too wide) in paragraph at lines 510--554
 [][] 
  []
 
 [4]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 571.
+(Font)              <9> on input line 570.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 571.
+(Font)              <6> on input line 570.
 
-Overfull \hbox (18.10231pt too wide) in paragraph at lines 564--616
+Overfull \hbox (18.10231pt too wide) in paragraph at lines 563--615
 [][] 
  []
 
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 627.
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 626.
 (c:/texlive/2024/texmf-dist/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -594,7 +583,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Overfull \hbox (18.10231pt too wide) in paragraph at lines 620--634
+Overfull \hbox (18.10231pt too wide) in paragraph at lines 619--633
 [][] 
  []
 
@@ -603,26 +592,19 @@ Overfull \hbox (18.10231pt too wide) in paragraph at lines 620--634
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
-
-
-Package rerunfilecheck Warning: File `lafarguette_resume.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `lafarguette_resume.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `lafarguette_resume.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 12649 strings out of 474104
- 203001 string characters out of 5747502
- 1946496 words of memory out of 5000000
- 34776 multiletter control sequences out of 15000+600000
+ 12656 strings out of 474104
+ 203201 string characters out of 5747502
+ 1945496 words of memory out of 5000000
+ 34777 multiletter control sequences out of 15000+600000
  607137 words of font info for 98 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,10n,79p,1081b,574s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,10n,79p,1081b,572s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt9.pfb>
-Output written on lafarguette_resume.pdf (5 pages, 272647 bytes).
+Output written on lafarguette_resume.pdf (5 pages, 272640 bytes).
 PDF statistics:
  121 PDF objects out of 1000 (max. 8388607)
  93 compressed objects within 1 object stream

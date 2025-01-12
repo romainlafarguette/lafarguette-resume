@@ -122,6 +122,9 @@ INPUT c:/texlive/2024/texmf-dist/tex/latex/lm/t1lmr.fd
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmr10.tfm
 INPUT c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT ./lafarguette_resume.aux
+INPUT ./lafarguette_resume.aux
+INPUT lafarguette_resume.aux
 OUTPUT lafarguette_resume.aux
 INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics/color.sty
 INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics/color.sty
@@ -137,6 +140,12 @@ INPUT c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx
 INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx
 INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx
+INPUT ./lafarguette_resume.out
+INPUT ./lafarguette_resume.out
+INPUT lafarguette_resume.out
+INPUT lafarguette_resume.out
+INPUT ./lafarguette_resume.out
+INPUT ./lafarguette_resume.out
 OUTPUT lafarguette_resume.out
 OUTPUT lafarguette_resume.pdf
 INPUT c:/texlive/2024/texmf-dist/tex/latex/microtype/mt-cmr.cfg
