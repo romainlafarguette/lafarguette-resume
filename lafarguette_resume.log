@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.23)  12 JAN 2025 17:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.23)  23 JAN 2025 22:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -596,18 +596,18 @@ Package rerunfilecheck Info: File `lafarguette_resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 12656 strings out of 474104
- 203201 string characters out of 5747502
+ 12654 strings out of 474104
+ 203181 string characters out of 5747502
  1945496 words of memory out of 5000000
  34777 multiletter control sequences out of 15000+600000
- 607137 words of font info for 98 fonts, out of 8000000 for 9000
+ 607054 words of font info for 97 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,10n,79p,1081b,572s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt9.pfb>
-Output written on lafarguette_resume.pdf (5 pages, 272639 bytes).
+Output written on lafarguette_resume.pdf (5 pages, 272650 bytes).
 PDF statistics:
- 121 PDF objects out of 1000 (max. 8388607)
- 93 compressed objects within 1 object stream
+ 120 PDF objects out of 1000 (max. 8388607)
+ 92 compressed objects within 1 object stream
  6 named destinations out of 1000 (max. 500000)
  27649 words of extra memory for PDF output out of 29859 (max. 10000000)
 
