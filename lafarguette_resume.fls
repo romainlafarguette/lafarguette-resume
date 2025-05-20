@@ -1,8 +1,8 @@
-PWD c:/Users/Administrator/Desktop/lafarguette-resume
+PWD //wsl.localhost/Ubuntu/home/romain/projects/lafarguette-resume
 INPUT c:/texlive/2024/texmf.cnf
 INPUT c:/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/Users/Administrator/Desktop/lafarguette-resume/lafarguette_resume.tex
+INPUT //wsl.localhost/Ubuntu/home/romain/projects/lafarguette-resume/lafarguette_resume.tex
 OUTPUT lafarguette_resume.log
 INPUT ./cv.cls
 INPUT cv.cls
