@@ -131,7 +131,7 @@
    {\addtolength{\@cvlenC}{\rubriquetableauparindent}}
    {}%
 \addtolength{\@cvlenC}{-\@cvlenB}%
-\addtolength{\@cvlenC}{-41pt}%
+\addtolength{\@cvlenC}{-40pt}%
 \begin{tabular}[t]{p{\@cvlenB}!{%
    \ifthenelse{\lengthtest{\rubriquetableauparindent<0pt}}
 	      {\hspace*{-\rubriquetableauparindent}}
