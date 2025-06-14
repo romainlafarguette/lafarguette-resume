@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.23)  28 MAY 2025 22:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.23)  14 JUN 2025 17:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -536,39 +536,39 @@ Overfull \hbox (16.96413pt too wide) in paragraph at lines 121--158
  []
 
 
-Overfull \hbox (16.96413pt too wide) in paragraph at lines 162--188
+Overfull \hbox (16.96413pt too wide) in paragraph at lines 162--190
 [][] 
  []
 
 [1
 
 {c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
-Overfull \hbox (16.96413pt too wide) in paragraph at lines 195--211
+Overfull \hbox (16.96413pt too wide) in paragraph at lines 197--213
 [][] 
  []
 
 
-Overfull \hbox (16.96413pt too wide) in paragraph at lines 216--230
+Overfull \hbox (16.96413pt too wide) in paragraph at lines 218--232
 [][] 
  []
 
 
-Overfull \hbox (16.96413pt too wide) in paragraph at lines 232--243
+Overfull \hbox (16.96413pt too wide) in paragraph at lines 234--245
 [][] 
  []
 
 
-Overfull \hbox (32.58406pt too wide) in paragraph at lines 248--256
+Overfull \hbox (32.58406pt too wide) in paragraph at lines 250--258
 [][] 
  []
 
 [2]
-Overfull \hbox (16.96413pt too wide) in paragraph at lines 262--295
+Overfull \hbox (16.96413pt too wide) in paragraph at lines 264--297
 [][] 
  []
 
 
-Overfull \hbox (16.96413pt too wide) in paragraph at lines 302--325
+Overfull \hbox (16.96413pt too wide) in paragraph at lines 304--327
 [][] 
  []
 
@@ -581,18 +581,18 @@ Package rerunfilecheck Info: File `lafarguette_resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 12623 strings out of 474104
- 203028 string characters out of 5747502
- 1945496 words of memory out of 5000000
- 34757 multiletter control sequences out of 15000+600000
- 594028 words of font info for 88 fonts, out of 8000000 for 9000
+ 12630 strings out of 474104
+ 203129 string characters out of 5747502
+ 1946496 words of memory out of 5000000
+ 34759 multiletter control sequences out of 15000+600000
+ 598589 words of font info for 91 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,79p,1094b,572s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on lafarguette_resume.pdf (3 pages, 171529 bytes).
+<c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
+Output written on lafarguette_resume.pdf (3 pages, 186887 bytes).
 PDF statistics:
- 83 PDF objects out of 1000 (max. 8388607)
- 64 compressed objects within 1 object stream
+ 88 PDF objects out of 1000 (max. 8388607)
+ 67 compressed objects within 1 object stream
  4 named destinations out of 1000 (max. 500000)
- 20993 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 23041 words of extra memory for PDF output out of 24883 (max. 10000000)
 
