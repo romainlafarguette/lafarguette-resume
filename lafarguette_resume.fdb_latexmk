@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1750699210.88502 "//wsl.localhost/Ubuntu/home/romain/projects/lafarguette-resume/lafarguette_resume.tex" "lafarguette_resume.pdf" "lafarguette_resume" 1750699212.46495 0
-  "//wsl.localhost/Ubuntu/home/romain/projects/lafarguette-resume/lafarguette_resume.tex" 1750699208 16961 6209babf2fcbfe6d946ec35d1e38c433 ""
+["pdflatex"] 1752938132.72137 "//wsl.localhost/Ubuntu/home/romain/projects/lafarguette-resume/lafarguette_resume.tex" "lafarguette_resume.pdf" "lafarguette_resume" 1752938135.57033 0
+  "//wsl.localhost/Ubuntu/home/romain/projects/lafarguette-resume/lafarguette_resume.tex" 1752937312 16931 b62b235d769e64d999ac5a74a67463ff ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1711194340 2375 baa924870cfb487815765f9094cf3728 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc" 1711194340 3031 6c4d3515bf7115d8518af1c9ab97ca44 ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1711192159 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -102,9 +102,9 @@
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1711201731 8222552 e2714069518dda829edceaf945571ef7 ""
   "c:/texlive/2024/texmf.cnf" 1711201538 713 e69b156964470283e0530f5060668171 ""
   "cv.cls" 1699091912 5251 00b6e3d1752f724bd90e5d9a55b35699 ""
-  "lafarguette_resume.aux" 1750699212 162 fa61bf9ecf9314f94d51aa32222a725c "pdflatex"
-  "lafarguette_resume.out" 1750699211 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "lafarguette_resume.tex" 1750699208 16961 6209babf2fcbfe6d946ec35d1e38c433 ""
+  "lafarguette_resume.aux" 1752938135 162 fa61bf9ecf9314f94d51aa32222a725c "pdflatex"
+  "lafarguette_resume.out" 1752938134 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "lafarguette_resume.tex" 1752937312 16931 b62b235d769e64d999ac5a74a67463ff ""
   (generated)
   "lafarguette_resume.aux"
   "lafarguette_resume.log"
