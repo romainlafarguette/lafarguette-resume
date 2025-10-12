@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1760285813.97174 "c:/Users/Administrator/Desktop/lafarguette-resume/lafarguette_aa_resume.tex" "lafarguette_aa_resume.pdf" "lafarguette_aa_resume" 1760285814.95337 0
-  "c:/Users/Administrator/Desktop/lafarguette-resume/lafarguette_aa_resume.tex" 1760285813 16873 1d4d1d549cd7c93eb4432b4036c4559b ""
+["pdflatex"] 1760288355.98034 "c:/Users/Administrator/Desktop/lafarguette-resume/lafarguette_aa_resume.tex" "lafarguette_aa_resume.pdf" "lafarguette_aa_resume" 1760288356.93528 0
+  "c:/Users/Administrator/Desktop/lafarguette-resume/lafarguette_aa_resume.tex" 1760288355 16867 e84e0c3b1cc4c5f122e4af5836238a23 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1711194340 2375 baa924870cfb487815765f9094cf3728 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc" 1711194340 3031 6c4d3515bf7115d8518af1c9ab97ca44 ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1711192159 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -102,9 +102,9 @@
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1711201731 8222552 e2714069518dda829edceaf945571ef7 ""
   "c:/texlive/2024/texmf.cnf" 1711201538 713 e69b156964470283e0530f5060668171 ""
   "cv.cls" 1699091912 5251 00b6e3d1752f724bd90e5d9a55b35699 ""
-  "lafarguette_aa_resume.aux" 1760285814 162 fa61bf9ecf9314f94d51aa32222a725c "pdflatex"
-  "lafarguette_aa_resume.out" 1760285814 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "lafarguette_aa_resume.tex" 1760285813 16873 1d4d1d549cd7c93eb4432b4036c4559b ""
+  "lafarguette_aa_resume.aux" 1760288356 162 87159b23cce7c2b923b11c85495bbd6d "pdflatex"
+  "lafarguette_aa_resume.out" 1760288356 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "lafarguette_aa_resume.tex" 1760288355 16867 e84e0c3b1cc4c5f122e4af5836238a23 ""
   (generated)
   "lafarguette_aa_resume.aux"
   "lafarguette_aa_resume.log"

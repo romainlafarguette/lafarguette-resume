@@ -180,7 +180,6 @@ INPUT c:/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT c:/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT c:/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/lm/lmex10.tfm
-INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmri10.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmbx10.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
 INPUT c:/texlive/2024/texmf-dist/tex/latex/lm/ts1lmr.fd
@@ -192,6 +191,7 @@ INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmri9.tfm
 INPUT c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
 INPUT c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmri10.tfm
 INPUT lafarguette_aa_resume.aux
 INPUT ./lafarguette_aa_resume.out
 INPUT ./lafarguette_aa_resume.out
