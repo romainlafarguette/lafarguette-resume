@@ -2,8 +2,8 @@ PWD c:/Users/Administrator/Desktop/lafarguette-resume
 INPUT c:/texlive/2024/texmf.cnf
 INPUT c:/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/Users/Administrator/Desktop/lafarguette-resume/lafarguette_resume hf.tex
-OUTPUT lafarguette_resume hf.log
+INPUT c:/Users/Administrator/Desktop/lafarguette-resume/lafarguette_aiib_resume.tex
+OUTPUT lafarguette_aiib_resume.log
 INPUT ./cv.cls
 INPUT cv.cls
 INPUT c:/texlive/2024/texmf-dist/tex/latex/base/article.cls
@@ -122,10 +122,10 @@ INPUT c:/texlive/2024/texmf-dist/tex/latex/lm/t1lmr.fd
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmr10.tfm
 INPUT c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT ./lafarguette_resume hf.aux
-INPUT ./lafarguette_resume hf.aux
-INPUT lafarguette_resume hf.aux
-OUTPUT lafarguette_resume hf.aux
+INPUT ./lafarguette_aiib_resume.aux
+INPUT ./lafarguette_aiib_resume.aux
+INPUT lafarguette_aiib_resume.aux
+OUTPUT lafarguette_aiib_resume.aux
 INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics/color.sty
 INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics/color.sty
 INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
@@ -140,14 +140,14 @@ INPUT c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx
 INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx
 INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx
-INPUT ./lafarguette_resume hf.out
-INPUT ./lafarguette_resume hf.out
-INPUT lafarguette_resume hf.out
-INPUT lafarguette_resume hf.out
-INPUT ./lafarguette_resume hf.out
-INPUT ./lafarguette_resume hf.out
-OUTPUT lafarguette_resume hf.out
-OUTPUT lafarguette_resume hf.pdf
+INPUT ./lafarguette_aiib_resume.out
+INPUT ./lafarguette_aiib_resume.out
+INPUT lafarguette_aiib_resume.out
+INPUT lafarguette_aiib_resume.out
+INPUT ./lafarguette_aiib_resume.out
+INPUT ./lafarguette_aiib_resume.out
+OUTPUT lafarguette_aiib_resume.out
+OUTPUT lafarguette_aiib_resume.pdf
 INPUT c:/texlive/2024/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 INPUT c:/texlive/2024/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 INPUT c:/texlive/2024/texmf-dist/tex/latex/microtype/mt-cmr.cfg
@@ -192,9 +192,9 @@ INPUT c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
 INPUT c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmri10.tfm
-INPUT lafarguette_resume hf.aux
-INPUT ./lafarguette_resume hf.out
-INPUT ./lafarguette_resume hf.out
+INPUT lafarguette_aiib_resume.aux
+INPUT ./lafarguette_aiib_resume.out
+INPUT ./lafarguette_aiib_resume.out
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb
