@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.23)  12 DEC 2025 22:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.23)  4 JAN 2026 15:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -542,7 +542,7 @@ Overfull \hbox (16.96413pt too wide) in paragraph at lines 174--202
 
 [1
 
-{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
+{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}] [2]
 Overfull \hbox (32.58406pt too wide) in paragraph at lines 209--220
 [][] 
  []
@@ -562,7 +562,7 @@ Overfull \hbox (16.96413pt too wide) in paragraph at lines 261--272
 [][] 
  []
 
-[2]
+[3]
 Overfull \hbox (16.96413pt too wide) in paragraph at lines 278--311
 [][] 
  []
@@ -572,7 +572,7 @@ Overfull \hbox (16.96413pt too wide) in paragraph at lines 318--341
 [][] 
  []
 
-[3] (./lafarguette_resume.aux)
+[4] (./lafarguette_resume.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
@@ -581,18 +581,18 @@ Package rerunfilecheck Info: File `lafarguette_resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 12617 strings out of 474104
- 202885 string characters out of 5747502
- 1947496 words of memory out of 5000000
+ 12622 strings out of 474104
+ 202933 string characters out of 5747502
+ 1945496 words of memory out of 5000000
  34755 multiletter control sequences out of 15000+600000
- 593862 words of font info for 86 fonts, out of 8000000 for 9000
+ 594028 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,79p,1081b,570s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on lafarguette_resume.pdf (3 pages, 171008 bytes).
+Output written on lafarguette_resume.pdf (4 pages, 171354 bytes).
 PDF statistics:
- 82 PDF objects out of 1000 (max. 8388607)
- 63 compressed objects within 1 object stream
- 4 named destinations out of 1000 (max. 500000)
+ 86 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
+ 5 named destinations out of 1000 (max. 500000)
  20993 words of extra memory for PDF output out of 24883 (max. 10000000)
 
