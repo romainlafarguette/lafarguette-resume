@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.23)  4 JAN 2026 17:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.23)  4 JAN 2026 19:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -531,40 +531,40 @@ Overfull \hbox (16.96413pt too wide) in paragraph at lines 107--115
  []
 
 
-Overfull \hbox (16.96413pt too wide) in paragraph at lines 122--168
+Overfull \hbox (16.96413pt too wide) in paragraph at lines 122--166
 [][] 
  []
 
 
-Overfull \hbox (16.96413pt too wide) in paragraph at lines 172--200
+Overfull \hbox (16.96413pt too wide) in paragraph at lines 170--198
 [][] 
  []
 
 [1
 
 {c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
-Overfull \hbox (32.58406pt too wide) in paragraph at lines 207--218
+Overfull \hbox (32.58406pt too wide) in paragraph at lines 205--216
 [][] 
  []
 
 
-Overfull \hbox (16.96413pt too wide) in paragraph at lines 224--240
+Overfull \hbox (16.96413pt too wide) in paragraph at lines 222--238
 [][] 
  []
 
 
-Overfull \hbox (16.96413pt too wide) in paragraph at lines 245--258
+Overfull \hbox (16.96413pt too wide) in paragraph at lines 243--256
 [][] 
  []
 
 
-Overfull \hbox (16.96413pt too wide) in paragraph at lines 259--270
+Overfull \hbox (16.96413pt too wide) in paragraph at lines 257--268
 [][] 
  []
 
 [2]
-Overfull \hbox (16.96413pt too wide) in paragraph at lines 276--309
-[][] 
+Overfull \hbox (16.96413pt too wide) in paragraph at lines 274--312
+[][]
  []
 
 
@@ -582,14 +582,14 @@ Package rerunfilecheck Info: File `lafarguette_resume.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  12619 strings out of 474104
- 202905 string characters out of 5747502
+ 202911 string characters out of 5747502
  1947496 words of memory out of 5000000
  34755 multiletter control sequences out of 15000+600000
  593945 words of font info for 87 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,79p,1081b,570s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on lafarguette_resume.pdf (3 pages, 170758 bytes).
+Output written on lafarguette_resume.pdf (3 pages, 170983 bytes).
 PDF statistics:
  82 PDF objects out of 1000 (max. 8388607)
  63 compressed objects within 1 object stream
