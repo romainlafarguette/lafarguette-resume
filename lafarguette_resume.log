@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.23)  4 JAN 2026 15:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.23)  4 JAN 2026 17:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -531,48 +531,48 @@ Overfull \hbox (16.96413pt too wide) in paragraph at lines 107--115
  []
 
 
-Overfull \hbox (16.96413pt too wide) in paragraph at lines 122--170
+Overfull \hbox (16.96413pt too wide) in paragraph at lines 122--168
 [][] 
  []
 
 
-Overfull \hbox (16.96413pt too wide) in paragraph at lines 174--202
+Overfull \hbox (16.96413pt too wide) in paragraph at lines 172--200
 [][] 
  []
 
 [1
 
-{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}] [2]
-Overfull \hbox (32.58406pt too wide) in paragraph at lines 209--220
+{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
+Overfull \hbox (32.58406pt too wide) in paragraph at lines 207--218
 [][] 
  []
 
 
-Overfull \hbox (16.96413pt too wide) in paragraph at lines 226--242
+Overfull \hbox (16.96413pt too wide) in paragraph at lines 224--240
 [][] 
  []
 
 
-Overfull \hbox (16.96413pt too wide) in paragraph at lines 247--260
+Overfull \hbox (16.96413pt too wide) in paragraph at lines 245--258
 [][] 
  []
 
 
-Overfull \hbox (16.96413pt too wide) in paragraph at lines 261--272
+Overfull \hbox (16.96413pt too wide) in paragraph at lines 259--270
 [][] 
  []
 
-[3]
-Overfull \hbox (16.96413pt too wide) in paragraph at lines 278--311
+[2]
+Overfull \hbox (16.96413pt too wide) in paragraph at lines 276--309
 [][] 
  []
 
 
-Overfull \hbox (16.96413pt too wide) in paragraph at lines 318--341
+Overfull \hbox (16.96413pt too wide) in paragraph at lines 316--339
 [][] 
  []
 
-[4] (./lafarguette_resume.aux)
+[3] (./lafarguette_resume.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
@@ -581,18 +581,18 @@ Package rerunfilecheck Info: File `lafarguette_resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 12622 strings out of 474104
- 202933 string characters out of 5747502
- 1945496 words of memory out of 5000000
+ 12619 strings out of 474104
+ 202905 string characters out of 5747502
+ 1947496 words of memory out of 5000000
  34755 multiletter control sequences out of 15000+600000
- 594028 words of font info for 88 fonts, out of 8000000 for 9000
+ 593945 words of font info for 87 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,79p,1081b,570s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on lafarguette_resume.pdf (4 pages, 171354 bytes).
+Output written on lafarguette_resume.pdf (3 pages, 170758 bytes).
 PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
- 66 compressed objects within 1 object stream
- 5 named destinations out of 1000 (max. 500000)
+ 82 PDF objects out of 1000 (max. 8388607)
+ 63 compressed objects within 1 object stream
+ 4 named destinations out of 1000 (max. 500000)
  20993 words of extra memory for PDF output out of 24883 (max. 10000000)
 

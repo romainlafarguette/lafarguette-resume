@@ -1,0 +1,345 @@
+%% Time-stamp: <2023-05-11 20:44:19 A13258Q>
+%% This version : June 2025 (first version : July 2009)
+%% LateX Resume 
+%% https://romainlafarguette.github.io/
+
+%% ---------------------------------------------------------------------------
+%% Class
+%% ---------------------------------------------------------------------------
+\documentclass[usegeometry, 10pt, a4paper]{cv} % Require cv.cls (cv class)
+
+%% ---------------------------------------------------------------------------
+%% Packages
+%% ---------------------------------------------------------------------------
+
+%% Language ------------------------------------------------------------------
+%\usepackage{babel} %% Document language
+%\selectlanguage{English}
+
+%% Encoding and Font ---------------------------------------------------------
+\usepackage[utf8]{inputenc} % Encoding
+\usepackage[T1]{fontenc} % Font encoding
+\usepackage{lmodern} % Latin modern fonts
+\usepackage{url} % Latin modern fonts
+\usepackage{hyperref}
+\hypersetup{colorlinks,urlcolor=blue}
+
+%% Layout --------------------------------------------------------------------
+\usepackage[top=1.8cm, bottom=1.2cm, left=1.5cm,  right=1.2cm, paper=a4paper]{geometry}
+
+\usepackage{microtype, setspace} %% Micro-typographic extensions, linespread
+\microtypesetup{final,tracking=true,kerning=true,spacing=true}
+
+\usepackage{enumitem} % Enhanced itemize/enumerate environment
+\usepackage{multicol} % Multiple columns text
+
+%% Dates
+\usepackage{datetime}
+\newdateformat{monthyeardate}{%
+  \monthname[\THEMONTH] \THEYEAR}
+
+\newdateformat{currentyear}{%
+  \THEYEAR}
+
+
+%% ---------------------------------------------------------------------------
+%% Personal macros : new commands and environments
+%% ---------------------------------------------------------------------------
+
+%% Commands ------------------------------------------------------------------
+\newcommand{\lieu}[1]{{#1}\ }
+\newcommand{\activite}[1]{\textbf{#1}\ }
+\newcommand{\comment}[1]{\textsl{#1}\ }
+\newcommand{\twodots}{\hbox to 1.2em{\hss.\hss.\hss.}}
+\newcommand{\midreduce}{-0.5cm}
+
+%% Environments --------------------------------------------------------------
+\newenvironment{short-itemize}{
+\begin{itemize}[label={}]
+     \setlength{\itemsep}{1.1mm}
+     \setlength{\parskip}{0pt}
+     \setlength{\parsep}{0pt}}
+{\end{itemize}
+}
+
+\newenvironment{normal-itemize}{
+\begin{itemize}
+     \setlength{\itemsep}{1.3mm}
+     \setlength{\parskip}{0pt}
+     \setlength{\parsep}{0pt}}
+{\end{itemize}
+}
+
+\newenvironment{long-itemize}{
+\begin{itemize}
+     \setlength{\itemsep}{1.5mm}
+     \setlength{\parskip}{0pt}
+     \setlength{\parsep}{0pt}}
+{\end{itemize}
+}
+
+%% ---------------------------------------------------------------------------
+%% Curriculum begins
+%% ---------------------------------------------------------------------------
+\begin{document}
+\hspace{10mm}
+\begin{chapeau}
+\begin{adresse}
+\begin{flushleft}
+    Romain Lafarguette (Luo Zhewen)\\
+    \href{mailto:romain.lafarguette@gmail.com}{romain.lafarguette@gmail.com}\\
+    \url{https://romainlafarguette.github.io/} \\
+\end{flushleft}
+\end{adresse}
+% \begin{etatcivil}
+% \begin{flushleft}
+%   \hspace{15mm} \emph{Updated: \monthyeardate\today}\\
+% %Male, French national
+% \end{flushleft}
+% \end{etatcivil}
+\end{chapeau}
+
+\vspace{-0.5cm}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% SUMMARY
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{rubriquetableau}[0.95\textwidth]{Summary}\\
+  \vspace{-1cm}
+  \begin{itemize}
+  \item Lead macro quant strategist with 13+ years of experience across international financial institutions 
+  \item Key expertise: macroeconomics modeling, global markets, quant \& academic research, policy work
+  \end{itemize}
+
+\end{rubriquetableau}
+
+\vspace{0.2cm}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% PROFESSIONAL EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{rubriquetableau}[0.95\textwidth]{Professional Experience}\\
+\vspace{-0.5cm}
+
+\activite{GIC} Lead Global Macro Strategist, Senior Vice-President \hfill
+Singapore, since 2023 \\ \vspace{-0.4cm}
+\begin{itemize}
+  \item Mentor a team of six quants on macroeconomic modeling, global market analysis and asset allocation 
+  \item Steer quant models using Machine Learning/AI/LLM on rates, FX, and credit markets
+  \item Design and oversee macro systems (early warning signals, forecasting \& nowcasting, debt projection, etc.) 
+  \item Develop and implement portfolio analytics for \$100+ bn multi-asset portfolios
+
+\end{itemize} 
+
+\vspace{0.4cm}
+
+\activite{ADIA} Senior Quant Researcher, Macro Research \& Portfolio Construction  \hfill
+Abu Dhabi, 2022-2023 \\ \vspace{-0.2cm}
+\begin{itemize}[]
+\item Macro quant research on global rates, FX, credit and commodity markets  
+\item Portfolio construction and risk models, supporting ADIA CIO's strategic and tactical allocation
+ \end{itemize}
+ 
+\vspace{0.4cm}
+
+\activite{International Monetary Fund} Quant Macroeconomist \hfill Washington DC, 2016-2022 \\
+\vspace{-0.2cm}
+
+\begin{itemize}[]
+  \item Macro quant modeling: GDP nowcasting, inflation forecasting, debt projections, macro stress-tests, etc.
+  \item Policy work on IMF funding programs and financial surveillance for EM countries
+  \item Led technical assistance missions to 30+ countries on quantitative models for financial operations
+  \begin{itemize}
+  \item Developed central banks liquidity management and risk frameworks and FX reserves management tools
+  \end{itemize}
+  \end{itemize}  
+ 
+\vspace{0.4cm}
+
+\activite{European Central Bank} Macro Quant and Portfolio Manager \hfill Frankfurt, 2013-2016 \\
+\vspace{-0.2cm}
+
+\begin{itemize}[]
+  \item Global FX and rates models (inflation forecasting, FX fair value, curve and term premium, etc.)
+  \item Managed Eurosystem RMB and JPY reserve portfolios
+  \item Supported QE market operations and Greek banks emergency liquidity assistance programs
+\end{itemize}
+\end{rubriquetableau}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{rubriquetableau}[0.95\textwidth]{Education}\\
+  \vspace{-0.5cm}
+  
+  \activite{Ph.D. Quantitative Finance,} Peking University \hfill Beijing 2013\\ 
+\vspace{-0.5cm}  
+  \begin{itemize}[label={},
+    rightmargin=\dimexpr\linewidth-13cm-\leftmargin\relax]
+  \item \small{\emph{Entire six-year quant curriculum completed in Chinese Mandarin in Beijing}}
+  \end{itemize}
+  
+  \vspace{0.2cm}
+  
+  \activite{M.Sc. Quantitative Macro \& Finance,} Ecole Normale Supérieure de Paris-Saclay \hfill Paris 2009\\
+  \vspace{-0.5cm}
+  \begin{itemize}[label={}, rightmargin=\dimexpr\linewidth-13cm-\leftmargin\relax]
+  \item \small{\emph{First-ranked at France's national entrance exam (Normalien).}}
+  \end{itemize}
+
+  \vspace{0.2cm}
+
+  % \activite{M.A. Philosophy \emph{(Logic \& Epistemology)}} University Paris Sorbonne \hfill Paris 2007\\
+  % \vspace{0.2cm}
+
+  \activite{M.Sc. Mathematics and Statistics,} ENSAE Paris \hfill Paris 2007\\
+  \vspace{0.2cm}
+
+  \activite{Undergrad Mathematics (CPGE)} Henri IV \hfill Paris 2005\\
+  \end{rubriquetableau}
+
+\newpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% SKILLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{rubriquetableau}[0.98\textwidth]{Skills}
+  \vspace{-0.5cm}  
+  \begin{itemize}
+    \item \textbf{Analytics:} Statistics \& machine learning, AI \& LLM, convex optimization, bootstrapping, density models, 
+    \item \textbf{Risk models}: VaR/CVaR, stress-test, early-warning signals, rates \& FX risk, sovereign risk, FSI 
+    \item \textbf{Risk factors systems}: Blackrock BRS, MSCI Barra, Axioma, PCA-custom risk factors
+    \item \textbf{Tech stack:} Python, Github CI/CD, Airflow schedulers, SQL, AWS, Databricks \& databases management  
+    \item \textbf{Data:} Bloomberg, Wind, Factset, Macrobond, CEIC, alternative datasets
+    \item \textbf{Languages:} English (fluent), Chinese (conversational), French (native) 
+  \end{itemize}
+  \end{rubriquetableau}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Selected Research \& Open-Source Work
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{rubriquetableau}[0.95\textwidth]{Python Packages}\\
+  \vspace{-0.8cm}
+  
+\begin{itemize}
+\item Distributional GaRCH model to design VaR-based FX Interventions for Central Banks, \href{https://github.com/romainlafarguette/varfxi}{varfxi repo} 
+\item Density Forecasting and Risk Modeling for Macro Series, \href{https://github.com/IMFGAR/GaR}{gar repo}
+\item Conditional Density Projection via Quantile Regressions, Resampling and Multifit Models, \href{https://github.com/romainlafarguette/gar}{quantproj repo}
+\item Robust Density Estimation via Over-Parametrized Gaussian Skewed Models, \href{https://github.com/romainlafarguette/robustdensity}{robustdensity repo}
+\item Partial Least Squares Wrapper for Data Reduction based on Scikit, \href{https://github.com/romainlafarguette/plswrapper}{plswrapper repo}
+\item Quantile Spacing - solving for quantile crossing, from Schmidt and Zhu (2016), \href{https://github.com/romainlafarguette/quantilespacing}{quantilespacing repo}
+\item Quantile Local Projections, \href{https://github.com/romainlafarguette/quantileproj}{quantileproj repo}
+\item Granular Instrumental Variables - from Gabaix and Koijen (2020), \href{https://github.com/romainlafarguette/granulariv}{granulariv repo}
+\item Cluster Analysis Wrapper with Performance Metrics and Visualization Tools, \href{https://github.com/romainlafarguette/clusterwrapper}{clusterwrapper repo}
+\end{itemize}  
+
+\end{rubriquetableau}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Publications
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{rubriquetableau}[0.95\textwidth]{Academic Research}\\
+  \vspace{-0.8cm}
+  \begin{itemize}
+  \item \textit{Financial Conditions in Europe: Dynamics, Drivers, and Macroeconomic Implications}, \href{https://www.imf.org/en/Publications/WP/Issues/2023/09/29/Financial-Conditions-in-Europe-Dynamics-Drivers-and-Macroeconomic-Implications-539653}{IMF WP (2024)}
+  \item \textit{Technology and the Geography of FX Markets}, \href{https://www.sciencedirect.com/science/article/abs/pii/S0261560623000037}{Journal of International Money and Finance (2023)}
+  \item \textit{FX Interventions: A Risk-Based Framework}, \href{https://www.imf.org/en/Publications/WP/Issues/2021/02/12/Foreign-Exchange-Intervention-Rules-for-Central-Banks-A-Risk-based-Framework-50081}{IMF WP (2020)} 
+  \item \textit{Predictive Density for Global Growth}, \href{https://www.imf.org/en/Publications/WP/Issues/2020/05/29/Predictive-Density-Aggregation-A-Model-for-Global-GDP-Growth-49441}{IMF WP (2020)} 
+  \item \textit{Growth at Risk: Applications in IMF Surveillance}, \href{https://www.imf.org/en/Publications/WP/Issues/2019/02/21/Growth-at-Risk-Concept-and-Application-in-IMF-Country-Surveillance-46567}{IMF WP (2019)} 
+  \item \textit{Can Countries Manage Their Financial Conditions Amid Globalization?}, \href{https://www.imf.org/en/Publications/WP/Issues/2018/01/24/Can-Countries-Manage-Their-Financial-Conditions-Amid-Globalization-45581}{IMF WP (2018)} 
+  \item \textit{Trading Without a View: Fast Trading, Entropy and Underreaction in the FX  Market}, \href{https://cepr.org/voxeu/columns/fast-trading-and-virtue-entropy}{ECB WP (2018)}
+  \item \textit{Household Savings in China : The Role of the Housing Market and Borrowing Constraints}, \href{https://ideas.repec.org/p/pra/mprapa/44611.html}{BdF WP (2014)}  
+  \end{itemize}
+\end{rubriquetableau}
+
+\begin{rubriquetableau}[0.95\textwidth]{Policy Research}\\
+  \vspace{-0.8cm}
+\begin{itemize}
+\item \textit{United Arab Emirates: TA Report - Liquidity Management and Forecasting}: \href{https://www.imf.org/en/Publications/CR/Issues/2022/07/22/United-Arab-Emirates-Technical-Assistance-Report-Liquidity-Management-and-Forecasting-521194}{IMF TA report (2022)}
+\item \textit{Jordan: TA Report - Forecasting Framework for Currency in Circulation}: \href{https://www.imf.org/en/Publications/CR/Issues/2022/04/07/Jordan-Technical-Assistance-Report-Forecasting-Framework-for-Currency-in-Circulation-516259}{IMF TA Report (2022)} 
+\item \textit{House Price Synchronization: What Role for Financial Factors?}: \href{https://www.elibrary.imf.org/view/book/9781484338292/ch003.xml}{IMF GFSR (2018)}
+\item \textit{Financial Conditions and Growth at Risk}: \href{https://www.elibrary.imf.org/view/book/9781484308394/ch003.xml}{IMF GFSR (2017)}
+\item \textit{High-Frequency Trading, Information and Market Volatility: the Role of Dark Pools}: \href{https://www.ecb.europa.eu/pub/pdf/other/ecbmpbu201610.en.pdf}{ECB FSR (2017)}
+\item \textit{The Role of Currency Invoicing for the Transmission of Exchange Rate Movements}: \href{https://www.ecb.europa.eu/pub/pdf/ire/article/ecb.ireart201507_01~5e577ddb0f.en.pdf}{ECB IRE (2015)} 
+\end{itemize}
+\end{rubriquetableau}
+
+\newpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% COUNTRIES MISSIONS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{rubriquetableau}[0.95\textwidth]{Country Missions}
+
+Policy experience with 30+ countries missions for IMF programs, technical assistance, FSAP, Article IV etc.\\
+
+\begin{multicols}{2}
+\begin{itemize}
+  \item \textbf{Mauritania}: monetary operations (2023)
+  \item \textbf{Bosnia}: FX management (mission chief, 2022)
+  \item \textbf{Burundi}: monetary operations (2022)
+  \item \textbf{Algeria}: monetary operations (mission chief, 2022)
+  \item \textbf{United Arab Emirates}: monetary operations (co-mission chief, 2021)
+  \item \textbf{Namibia}: liquidity forecasting (mission chief, 2021)
+  \item \textbf{Jordan}: liquidity forecasting (mission chief, 2021)
+  \item \textbf{Djibouti}: liquidity forecasting (mission chief, 2021)
+  \item \textbf{Hong Kong SAR}: FSAP, systemic liquidity and stress-testing (2021)
+  \item \textbf{WAEMU}: FSAP, stress-testing (2021)
+  \item \textbf{D.R Congo}: IMF program negotiations (2020)
+  \item \textbf{Tunisia}: liquidity forecasting (2020)
+  \item \textbf{South Korea}: FX reserves management (2020)
+  \item \textbf{Morocco}: FX interventions (2020)  
+  \item \textbf{P.R China}: Risk modeling (mission chief, 2019) 
+  \item \textbf{India}: Financial modeling (2019)
+  \item \textbf{Philippines}: Financial modeling (2019)
+  \item \textbf{Malaysia}: Financial modeling (2019)
+  \item \textbf{Singapore}: Financial modeling (2019)
+  \item \textbf{Israel}: IMF Article IV, external sector (2019)
+  \item \textbf{Albania}: IMF Article IV and post-program (2018, 2019)
+  \item \textbf{Peru}: FSAP, systemic liquidity and stress-testing (2017, 2018)
+  \item \textbf{PR China}: ECB negotiations, RMB Eurosystem portfolio (2015)
+\end{itemize}
+
+\end{multicols}  
+\end{rubriquetableau}
+
+
+\vspace{0.5cm}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% TEACHING
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{rubriquetableau}[0.95\textwidth]{Teaching}
+
+  I taught financial modeling and financial operations to countries officials and central bankers around the world, often via IMF technical assistance centers. \\
+  
+  \begin{multicols}{2}
+  
+  \begin{itemize}
+  \item \textbf{Singapore}: \href{https://romainlafarguette.github.io/fxinterventions/docs/index.html}{FX Intervention Rules} (2023)    
+  \item \textbf{Singapore}: liquidity forecasting (2022)
+  \item \textbf{Ghana}: liquidity forecasting (2022)
+  \item \textbf{Kuwait}: liquidity forecasting (2021, 2022)
+  \item \textbf{Slovenia}: liquidity forecasting (2022)
+  \item \textbf{IMF Washington DC}: density modeling (2021)
+  \item \textbf{Kazakhstan}: liquidity forecasting (2021)
+  \item \textbf{Guatemala}: liquidity forecasting (2021)
+  \item \textbf{Austria}: density modeling (2021)
+  \item \textbf{Malaysia}: density modeling (2020)
+  \item \textbf{IMF Washington DC}: Python (2019)
+  \item \textbf{Sciences Po and ENSAE Paris}: Econometrics and macroeconomics (2010-2012)
+  \end{itemize}
+  
+  \end{multicols}
+\end{rubriquetableau}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}
