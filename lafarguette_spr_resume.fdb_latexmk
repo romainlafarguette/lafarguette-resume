@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1773758792.32974 "c:/Users/Administrator/Desktop/lafarguette-resume/lafarguette_macro_resume.tex" "lafarguette_macro_resume.pdf" "lafarguette_macro_resume" 1773758793.11532 0
+["pdflatex"] 1778331110.81984 "c:/Users/Administrator/Desktop/lafarguette-resume/lafarguette_spr_resume.tex" "lafarguette_spr_resume.pdf" "lafarguette_spr_resume" 1778331111.55129 0
   "C:/Users/Administrator/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1773067081 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Administrator/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1773067001 13337720 d38c197d46ba0ac3a66b5919b0aa1507 ""
   "C:/Users/Administrator/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
@@ -94,14 +94,14 @@
   "C:/Users/Administrator/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1761901070 33142 efe8f4750fc02524935e7423b4bdef69 ""
   "C:/Users/Administrator/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Administrator/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "c:/Users/Administrator/Desktop/lafarguette-resume/lafarguette_macro_resume.tex" 1773758791 17511 7671c03352b28cf61f4c526e05a2a5f6 ""
+  "c:/Users/Administrator/Desktop/lafarguette-resume/lafarguette_spr_resume.tex" 1778331110 17157 2e39c56dcb1149fc729e5842a79f7e9d ""
   "cv.cls" 1699091912 5251 00b6e3d1752f724bd90e5d9a55b35699 ""
-  "lafarguette_macro_resume.aux" 1773758792 162 fa61bf9ecf9314f94d51aa32222a725c "pdflatex"
-  "lafarguette_macro_resume.out" 1773758792 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "lafarguette_macro_resume.tex" 1773758791 17511 7671c03352b28cf61f4c526e05a2a5f6 ""
+  "lafarguette_spr_resume.aux" 1778331111 162 fa61bf9ecf9314f94d51aa32222a725c "pdflatex"
+  "lafarguette_spr_resume.out" 1778331111 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "lafarguette_spr_resume.tex" 1778331110 17157 2e39c56dcb1149fc729e5842a79f7e9d ""
   (generated)
-  "lafarguette_macro_resume.aux"
-  "lafarguette_macro_resume.log"
-  "lafarguette_macro_resume.out"
-  "lafarguette_macro_resume.pdf"
+  "lafarguette_spr_resume.aux"
+  "lafarguette_spr_resume.log"
+  "lafarguette_spr_resume.out"
+  "lafarguette_spr_resume.pdf"
   (rewritten before read)
